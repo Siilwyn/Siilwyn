@@ -1,6 +1,10 @@
 name: Update readme
 
-on: push
+on:
+  schedule:
+    # At 14:53 on the first day the month
+    # Semi-random time to prevent high loads of GitHub Actions workflow runs
+    - cron: '53 14 1 * *'
 
 jobs:
   update:
