@@ -63,7 +63,7 @@ request.end(JSON.stringify({
   query: `{
     user(login: "Siilwyn") {
       id
-      starredRepositories {
+      starredRepositories(orderBy: {field: STARRED_AT, direction: DESC}) {
         nodes {
           name
           description
