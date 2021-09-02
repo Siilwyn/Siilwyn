@@ -5,6 +5,26 @@ const repositoryToListItem = (repository) => (
   `* [${repository.name}](${repository.url}) <br/> <sub>${repository.description}</sub>`
 );
 
+const repositoriesToList = (repositories) => {
+  const [newestRepositories, olderRepositories] = [
+    repositories.slice(0, 7).map(repositoryToListItem),
+    repositories.slice(7).map(repositoryToListItem),
+  ];
+
+  return `
+${newestRepositories.join('\n')}
+${olderRepositories.length
+  ? `
+<details>
+<summary>Show older stars</summary>
+
+${olderRepositories.join('\n')}
+
+</details>
+` : '' }
+`;
+};
+
 const request = https.request(
   'https://api.github.com/graphql',
   {
@@ -43,13 +63,13 @@ const request = https.request(
 <td valign="top" width="50%">
 
 ### JavaScript :turtle:
-${parsedData.javascript.map(repositoryToListItem).join('\n')}
+${repositoriesToList(parsedData.javascript)}
 
 </td>
 <td valign="top" width="50%">
 
 ### Rust :crab:
-${parsedData.rust.map(repositoryToListItem).join('\n')}
+${repositoriesToList(parsedData.rust)}
 
 </td>
 </tr>
