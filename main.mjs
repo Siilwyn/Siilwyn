@@ -45,12 +45,12 @@ const request = https.request(
       const parsedData = {
         javascript: data.user.starredRepositories.nodes.filter(
           (repository) => (
-            repository.primaryLanguage.name === 'JavaScript'
-            || repository.primaryLanguage.name === 'TypeScript'
+            repository.primaryLanguage?.name === 'JavaScript'
+            || repository.primaryLanguage?.name === 'TypeScript'
           )
         ),
         rust: data.user.starredRepositories.nodes.filter(
-          (repository) => repository.primaryLanguage.name === 'Rust'
+          (repository) => repository.primaryLanguage?.name === 'Rust'
         )
       };
 
