@@ -23,5 +23,5 @@ jobs:
           git config --global user.email "talk@selwyn.cc"
           git config --global user.name "Selwyn"
           git add .
-          git commit --amend --message 'Update readme'
-          git push --force
+          git commit --message 'Update readme'
+          git push
