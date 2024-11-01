@@ -8,26 +8,26 @@
 
 ### JavaScript :turtle:
 
-* [arctic](https://github.com/pilcrowOnPaper/arctic) <br/> <sub>OAuth 2.0 clients for popular providers</sub>
+* [buster](https://github.com/dessant/buster) <br/> <sub>Captcha solver extension for humans, available for Chrome, Edge and Firefox</sub>
+* [arctic](https://github.com/pilcrowonpaper/arctic) <br/> <sub>OAuth 2.0 clients for popular providers</sub>
 * [jsdoc](https://github.com/jsdoc/jsdoc) <br/> <sub>An API documentation generator for JavaScript.</sub>
 * [nanoid](https://github.com/ai/nanoid) <br/> <sub>A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript</sub>
 * [openapi-typescript](https://github.com/openapi-ts/openapi-typescript) <br/> <sub>Generate TypeScript types from OpenAPI 3 specs</sub>
 * [unified](https://github.com/unifiedjs/unified) <br/> <sub>☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees</sub>
 * [kysely](https://github.com/kysely-org/kysely) <br/> <sub>A type-safe typescript SQL query builder</sub>
-* [pagefind-search](https://github.com/zachleat/pagefind-search) <br/> <sub>A web component to search with Pagefind.</sub>
 
 <details>
 <summary>Show older stars</summary>
 
+* [pagefind-search](https://github.com/zachleat/pagefind-search) <br/> <sub>A web component to search with Pagefind.</sub>
 * [is-land](https://github.com/11ty/is-land) <br/> <sub>A new performance-focused way to add interactive client-side components to your web site.</sub>
 * [itty-router](https://github.com/kwhitley/itty-router) <br/> <sub>A little router.</sub>
 * [publint](https://github.com/bluwy/publint) <br/> <sub>Lint packaging errors</sub>
 * [shikiji](https://github.com/antfu/shikiji) <br/> <sub>A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.</sub>
 * [devlop](https://github.com/wooorm/devlop) <br/> <sub>do things in development and nothing otherwise</sub>
-* [terrazzo](https://github.com/terrazzoapp/terrazzo) <br/> <sub>Use DTCG tokens in CI and code</sub>
+* [terrazzo](https://github.com/terrazzoapp/terrazzo) <br/> <sub>Use DTCG tokens JSON to generate code for web, mobile, native apps, and more</sub>
 * [gqlmin](https://github.com/drwpow/gqlmin) <br/> <sub>< 1 kB GraphQL query minifier</sub>
 * [headless-qr](https://github.com/Rich-Harris/headless-qr) <br/> <sub>A simple, modern QR code library</sub>
-* [lucia](https://github.com/lucia-auth/lucia) <br/> <sub>Authentication, simple and clean</sub>
 * [speedscope](https://github.com/jlfwong/speedscope) <br/> <sub>🔬 A fast, interactive web-based viewer for performance profiles.</sub>
 * [nano-staged](https://github.com/usmanyunusov/nano-staged) <br/> <sub>Tiny tool to run commands for modified, staged, and committed files in a GIT repository.</sub>
 * [ufo](https://github.com/unjs/ufo) <br/> <sub>🔗 URL utils for humans</sub>
@@ -70,17 +70,19 @@
 
 ### Rust :crab:
 
+* [bevy_replicon](https://github.com/projectharmonia/bevy_replicon) <br/> <sub>Server-authoritative networking crate for the Bevy game engine.</sub>
+* [anda](https://github.com/FyraLabs/anda) <br/> <sub>A modern Build/CI System</sub>
 * [keypunch](https://github.com/bragefuglseth/keypunch) <br/> <sub>Practice your typing skills</sub>
 * [niri](https://github.com/YaLTeR/niri) <br/> <sub>A scrollable-tiling Wayland compositor.</sub>
 * [extism](https://github.com/extism/extism) <br/> <sub>The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.</sub>
 * [mise](https://github.com/jdx/mise) <br/> <sub>dev tools, env vars, task runner</sub>
 * [chamsae](https://github.com/pbzweihander/chamsae) <br/> <sub>A lightweight ActivityPub microblogging service for only a single user</sub>
-* [just](https://github.com/casey/just) <br/> <sub>🤖 Just a command runner</sub>
-* [dirs-rs](https://github.com/dirs-dev/dirs-rs) <br/> <sub>a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows</sub>
 
 <details>
 <summary>Show older stars</summary>
 
+* [just](https://github.com/casey/just) <br/> <sub>🤖 Just a command runner</sub>
+* [dirs-rs](https://github.com/dirs-dev/dirs-rs) <br/> <sub>a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows</sub>
 * [serde](https://github.com/serde-rs/serde) <br/> <sub>Serialization framework for Rust</sub>
 * [ureq](https://github.com/algesten/ureq) <br/> <sub>A simple, safe HTTP client</sub>
 
