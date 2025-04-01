@@ -8,17 +8,18 @@
 
 ### JavaScript :turtle:
 
+* [shiki](https://github.com/shikijs/shiki) <br/> <sub>A beautiful yet powerful syntax highlighter</sub>
 * [find-my-way](https://github.com/delvedor/find-my-way) <br/> <sub>A crazy fast HTTP router</sub>
 * [standard-schema](https://github.com/standard-schema/standard-schema) <br/> <sub>A standard interface for TypeScript schema validation libraries</sub>
 * [buster](https://github.com/dessant/buster) <br/> <sub>Captcha solver extension for humans, available for Chrome, Edge and Firefox</sub>
 * [arctic](https://github.com/pilcrowonpaper/arctic) <br/> <sub>OAuth 2.0 clients for popular providers</sub>
 * [jsdoc](https://github.com/jsdoc/jsdoc) <br/> <sub>An API documentation generator for JavaScript.</sub>
 * [nanoid](https://github.com/ai/nanoid) <br/> <sub>A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript</sub>
-* [openapi-typescript](https://github.com/openapi-ts/openapi-typescript) <br/> <sub>Generate TypeScript types from OpenAPI 3 specs</sub>
 
 <details>
 <summary>Show older stars</summary>
 
+* [openapi-typescript](https://github.com/openapi-ts/openapi-typescript) <br/> <sub>Generate TypeScript types from OpenAPI 3 specs</sub>
 * [unified](https://github.com/unifiedjs/unified) <br/> <sub>☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees</sub>
 * [kysely](https://github.com/kysely-org/kysely) <br/> <sub>A type-safe typescript SQL query builder</sub>
 * [pagefind-search](https://github.com/zachleat/pagefind-search) <br/> <sub>A web component to search with Pagefind.</sub>
