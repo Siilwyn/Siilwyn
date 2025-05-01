@@ -8,23 +8,26 @@
 
 ### JavaScript :turtle:
 
+* [stricli](https://github.com/bloomberg/stricli) <br/> <sub>Build complex CLIs with type safety and no dependencies</sub>
+* [fontaine](https://github.com/unjs/fontaine) <br/> <sub>Automatic font fallback based on font metrics</sub>
+* [snapshot](https://github.com/supabase-community/snapshot) <br/> <sub>Capture a snapshot (or subset) of your Postgres database whilst transforming the data.</sub>
+* [copycat](https://github.com/supabase-community/copycat) <br/> <sub>Generate deterministic fake values: The same input will always generate the same fake-output.</sub>
+* [rou3](https://github.com/h3js/rou3) <br/> <sub>🌳 Lightweight and fast rou(ter) for JavaScript</sub>
 * [shiki](https://github.com/shikijs/shiki) <br/> <sub>A beautiful yet powerful syntax highlighter</sub>
-* [find-my-way](https://github.com/delvedor/find-my-way) <br/> <sub>A crazy fast HTTP router</sub>
 * [standard-schema](https://github.com/standard-schema/standard-schema) <br/> <sub>A standard interface for TypeScript schema validation libraries</sub>
-* [buster](https://github.com/dessant/buster) <br/> <sub>Captcha solver extension for humans, available for Chrome, Edge and Firefox</sub>
-* [arctic](https://github.com/pilcrowonpaper/arctic) <br/> <sub>OAuth 2.0 clients for popular providers</sub>
-* [jsdoc](https://github.com/jsdoc/jsdoc) <br/> <sub>An API documentation generator for JavaScript.</sub>
-* [nanoid](https://github.com/ai/nanoid) <br/> <sub>A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript</sub>
 
 <details>
 <summary>Show older stars</summary>
 
+* [buster](https://github.com/dessant/buster) <br/> <sub>Captcha solver extension for humans, available for Chrome, Edge and Firefox</sub>
+* [arctic](https://github.com/pilcrowonpaper/arctic) <br/> <sub>OAuth 2.0 clients for popular providers</sub>
+* [jsdoc](https://github.com/jsdoc/jsdoc) <br/> <sub>An API documentation generator for JavaScript.</sub>
+* [nanoid](https://github.com/ai/nanoid) <br/> <sub>A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript</sub>
 * [openapi-typescript](https://github.com/openapi-ts/openapi-typescript) <br/> <sub>Generate TypeScript types from OpenAPI 3 specs</sub>
-* [unified](https://github.com/unifiedjs/unified) <br/> <sub>☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees</sub>
-* [kysely](https://github.com/kysely-org/kysely) <br/> <sub>A type-safe typescript SQL query builder</sub>
+* [unified](https://github.com/unifiedjs/unified) <br/> <sub>Parse, inspect, transform, and serialize content with syntax trees</sub>
+* [kysely](https://github.com/kysely-org/kysely) <br/> <sub>A type-safe TypeScript SQL query builder</sub>
 * [pagefind-search](https://github.com/zachleat/pagefind-search) <br/> <sub>A web component to search with Pagefind.</sub>
 * [is-land](https://github.com/11ty/is-land) <br/> <sub>A new performance-focused way to add interactive client-side components to your web site.</sub>
-* [itty-router](https://github.com/kwhitley/itty-router) <br/> <sub>A little router.</sub>
 * [publint](https://github.com/publint/publint) <br/> <sub>Lint packaging errors</sub>
 * [shikiji](https://github.com/antfu/shikiji) <br/> <sub>A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.</sub>
 * [devlop](https://github.com/wooorm/devlop) <br/> <sub>do things in development and nothing otherwise</sub>
@@ -34,7 +37,6 @@
 * [speedscope](https://github.com/jlfwong/speedscope) <br/> <sub>🔬 A fast, interactive web-based viewer for performance profiles.</sub>
 * [nano-staged](https://github.com/usmanyunusov/nano-staged) <br/> <sub>Tiny tool to run commands for modified, staged, and committed files in a GIT repository.</sub>
 * [ufo](https://github.com/unjs/ufo) <br/> <sub>🔗 URL utils for humans</sub>
-* [my-way](https://github.com/amio/my-way) <br/> <sub>Robust path matcher in 738 bytes.</sub>
 * [defu](https://github.com/unjs/defu) <br/> <sub>🌊 Assign default properties recursively</sub>
 * [ts-pattern](https://github.com/gvergnaud/ts-pattern) <br/> <sub>🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.</sub>
 * [knip](https://github.com/webpro-nl/knip) <br/> <sub>✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!</sub>
@@ -73,17 +75,18 @@
 
 ### Rust :crab:
 
+* [xan](https://github.com/medialab/xan) <br/> <sub>The CSV magician</sub>
 * [rustowl](https://github.com/cordx56/rustowl) <br/> <sub>Visualize Ownership and Lifetimes in Rust</sub>
-* [LACT](https://github.com/ilya-zlobintsev/LACT) <br/> <sub>Linux GPU Configuration Tool</sub>
-* [bevy_replicon](https://github.com/projectharmonia/bevy_replicon) <br/> <sub>Server-authoritative networking crate for the Bevy game engine.</sub>
+* [LACT](https://github.com/ilya-zlobintsev/LACT) <br/> <sub>Linux GPU Configuration And Monitoring Tool</sub>
+* [bevy_replicon](https://github.com/projectharmonia/bevy_replicon) <br/> <sub>A server-authoritative replication crate for Bevy.</sub>
 * [anda](https://github.com/FyraLabs/anda) <br/> <sub>A modern Build/CI System</sub>
 * [keypunch](https://github.com/bragefuglseth/keypunch) <br/> <sub>Practice your typing skills</sub>
 * [niri](https://github.com/YaLTeR/niri) <br/> <sub>A scrollable-tiling Wayland compositor.</sub>
-* [extism](https://github.com/extism/extism) <br/> <sub>The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.</sub>
 
 <details>
 <summary>Show older stars</summary>
 
+* [extism](https://github.com/extism/extism) <br/> <sub>The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.</sub>
 * [mise](https://github.com/jdx/mise) <br/> <sub>dev tools, env vars, task runner</sub>
 * [chamsae](https://github.com/pbzweihander/chamsae) <br/> <sub>A lightweight ActivityPub microblogging service for only a single user</sub>
 * [just](https://github.com/casey/just) <br/> <sub>🤖 Just a command runner</sub>
