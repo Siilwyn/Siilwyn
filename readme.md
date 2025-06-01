@@ -8,17 +8,21 @@
 
 ### JavaScript :turtle:
 
+* [bundle-stats](https://github.com/relative-ci/bundle-stats) <br/> <sub>Analyze bundle stats(bundle size, assets, modules, packages) and compare the results between different builds. Support for webpack, rspack, vite, rolldown and rollup.</sub>
+* [size-limit](https://github.com/ai/size-limit) <br/> <sub>Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.</sub>
+* [vite-plugin-bundlesize](https://github.com/drwpow/vite-plugin-bundlesize) <br/> <sub>null</sub>
+* [tinyglobby](https://github.com/SuperchupuDev/tinyglobby) <br/> <sub>A fast and minimal alternative to globby and fast-glob</sub>
 * [stricli](https://github.com/bloomberg/stricli) <br/> <sub>Build complex CLIs with type safety and no dependencies</sub>
 * [fontaine](https://github.com/unjs/fontaine) <br/> <sub>Automatic font fallback based on font metrics</sub>
 * [snapshot](https://github.com/supabase-community/snapshot) <br/> <sub>Capture a snapshot (or subset) of your Postgres database whilst transforming the data.</sub>
-* [copycat](https://github.com/supabase-community/copycat) <br/> <sub>Generate deterministic fake values: The same input will always generate the same fake-output.</sub>
-* [rou3](https://github.com/h3js/rou3) <br/> <sub>🌳 Lightweight and fast rou(ter) for JavaScript</sub>
-* [shiki](https://github.com/shikijs/shiki) <br/> <sub>A beautiful yet powerful syntax highlighter</sub>
-* [standard-schema](https://github.com/standard-schema/standard-schema) <br/> <sub>A standard interface for TypeScript schema validation libraries</sub>
 
 <details>
 <summary>Show older stars</summary>
 
+* [copycat](https://github.com/supabase-community/copycat) <br/> <sub>Generate deterministic fake values: The same input will always generate the same fake-output.</sub>
+* [rou3](https://github.com/h3js/rou3) <br/> <sub>🌳 Lightweight and fast rou(ter) for JavaScript</sub>
+* [shiki](https://github.com/shikijs/shiki) <br/> <sub>A beautiful yet powerful syntax highlighter</sub>
+* [standard-schema](https://github.com/standard-schema/standard-schema) <br/> <sub>A standard interface for TypeScript schema validation libraries</sub>
 * [buster](https://github.com/dessant/buster) <br/> <sub>Captcha solver extension for humans, available for Chrome, Edge and Firefox</sub>
 * [arctic](https://github.com/pilcrowonpaper/arctic) <br/> <sub>OAuth 2.0 clients for popular providers</sub>
 * [jsdoc](https://github.com/jsdoc/jsdoc) <br/> <sub>An API documentation generator for JavaScript.</sub>
