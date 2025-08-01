@@ -8,17 +8,19 @@
 
 ### JavaScript :turtle:
 
+* [flat](https://github.com/hughsk/flat) <br/> <sub>:steam_locomotive: Flatten/unflatten nested Javascript objects</sub>
+* [feedsmith](https://github.com/macieklamberski/feedsmith) <br/> <sub>Robust and fast parser and generator for RSS, Atom, JSON Feed, and RDF feeds, with support for Podcast, iTunes, Dublin Core, and OPML files.</sub>
 * [vocs](https://github.com/wevm/vocs) <br/> <sub>Minimal Documentation Framework, powered by React + Vite.</sub>
 * [scule](https://github.com/unjs/scule) <br/> <sub>🧵 String Case Utils</sub>
 * [design-tokens-language-server](https://github.com/bennypowers/design-tokens-language-server) <br/> <sub>Editor tools for working with design tokens</sub>
 * [bundle-stats](https://github.com/relative-ci/bundle-stats) <br/> <sub>Analyze bundle stats(bundle size, assets, modules, packages) and compare the results between different builds. Support for webpack, rspack, vite, rolldown and rollup.</sub>
 * [size-limit](https://github.com/ai/size-limit) <br/> <sub>Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.</sub>
-* [vite-plugin-bundlesize](https://github.com/drwpow/vite-plugin-bundlesize) <br/> <sub>null</sub>
-* [tinyglobby](https://github.com/SuperchupuDev/tinyglobby) <br/> <sub>A fast and minimal alternative to globby and fast-glob</sub>
 
 <details>
 <summary>Show older stars</summary>
 
+* [vite-plugin-bundlesize](https://github.com/drwpow/vite-plugin-bundlesize) <br/> <sub>null</sub>
+* [tinyglobby](https://github.com/SuperchupuDev/tinyglobby) <br/> <sub>A fast and minimal alternative to globby and fast-glob</sub>
 * [stricli](https://github.com/bloomberg/stricli) <br/> <sub>Build complex CLIs with type safety and no dependencies</sub>
 * [fontaine](https://github.com/unjs/fontaine) <br/> <sub>Automatic font fallback based on font metrics</sub>
 * [snapshot](https://github.com/supabase-community/snapshot) <br/> <sub>Capture a snapshot (or subset) of your Postgres database whilst transforming the data.</sub>
@@ -78,17 +80,18 @@
 
 ### Rust :crab:
 
+* [flac-codec](https://github.com/tuffy/flac-codec) <br/> <sub>A comprehensive library for handling FLAC files</sub>
 * [rustac](https://github.com/stac-utils/rustac) <br/> <sub>The power of Rust for the STAC ecosystem</sub>
 * [usage](https://github.com/jdx/usage) <br/> <sub>A specification for CLIs</sub>
 * [xan](https://github.com/medialab/xan) <br/> <sub>The CSV magician</sub>
 * [rustowl](https://github.com/cordx56/rustowl) <br/> <sub>Visualize Ownership and Lifetimes in Rust</sub>
 * [LACT](https://github.com/ilya-zlobintsev/LACT) <br/> <sub>Linux GPU Configuration And Monitoring Tool</sub>
 * [keypunch](https://github.com/bragefuglseth/keypunch) <br/> <sub>Practice your typing skills</sub>
-* [niri](https://github.com/YaLTeR/niri) <br/> <sub>A scrollable-tiling Wayland compositor.</sub>
 
 <details>
 <summary>Show older stars</summary>
 
+* [niri](https://github.com/YaLTeR/niri) <br/> <sub>A scrollable-tiling Wayland compositor.</sub>
 * [extism](https://github.com/extism/extism) <br/> <sub>The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.</sub>
 * [mise](https://github.com/jdx/mise) <br/> <sub>dev tools, env vars, task runner</sub>
 * [chamsae](https://github.com/pbzweihander/chamsae) <br/> <sub>A lightweight ActivityPub microblogging service for only a single user</sub>
