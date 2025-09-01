@@ -12,14 +12,13 @@
 * [feedsmith](https://github.com/macieklamberski/feedsmith) <br/> <sub>Robust and fast parser and generator for RSS, Atom, JSON Feed, and RDF feeds, with support for Podcast, iTunes, Dublin Core, and OPML files.</sub>
 * [vocs](https://github.com/wevm/vocs) <br/> <sub>Minimal Documentation Framework, powered by React + Vite.</sub>
 * [scule](https://github.com/unjs/scule) <br/> <sub>🧵 String Case Utils</sub>
-* [design-tokens-language-server](https://github.com/bennypowers/design-tokens-language-server) <br/> <sub>Editor tools for working with design tokens</sub>
 * [bundle-stats](https://github.com/relative-ci/bundle-stats) <br/> <sub>Analyze bundle stats(bundle size, assets, modules, packages) and compare the results between different builds. Support for webpack, rspack, vite, rolldown and rollup.</sub>
 * [size-limit](https://github.com/ai/size-limit) <br/> <sub>Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.</sub>
+* [vite-plugin-bundlesize](https://github.com/drwpow/vite-plugin-bundlesize) <br/> <sub>null</sub>
 
 <details>
 <summary>Show older stars</summary>
 
-* [vite-plugin-bundlesize](https://github.com/drwpow/vite-plugin-bundlesize) <br/> <sub>null</sub>
 * [tinyglobby](https://github.com/SuperchupuDev/tinyglobby) <br/> <sub>A fast and minimal alternative to globby and fast-glob</sub>
 * [stricli](https://github.com/bloomberg/stricli) <br/> <sub>Build complex CLIs with type safety and no dependencies</sub>
 * [fontaine](https://github.com/unjs/fontaine) <br/> <sub>Automatic font fallback based on font metrics</sub>
