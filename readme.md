@@ -9,7 +9,7 @@
 ### JavaScript :turtle:
 
 * [flat](https://github.com/hughsk/flat) <br/> <sub>:steam_locomotive: Flatten/unflatten nested Javascript objects</sub>
-* [feedsmith](https://github.com/macieklamberski/feedsmith) <br/> <sub>Robust and fast parser and generator for RSS, Atom, JSON Feed, and RDF feeds, with support for Podcast, iTunes, Dublin Core, and OPML files.</sub>
+* [feedsmith](https://github.com/macieklamberski/feedsmith) <br/> <sub>Fast, all-in-one parser and generator for RSS, Atom, RDF, and JSON Feed, with support for Podcast, iTunes, Dublin Core, and OPML files.</sub>
 * [vocs](https://github.com/wevm/vocs) <br/> <sub>Minimal Documentation Framework, powered by React + Vite.</sub>
 * [scule](https://github.com/unjs/scule) <br/> <sub>🧵 String Case Utils</sub>
 * [bundle-stats](https://github.com/relative-ci/bundle-stats) <br/> <sub>Analyze bundle stats(bundle size, assets, modules, packages) and compare the results between different builds. Support for webpack, rspack, vite, rolldown and rollup.</sub>
@@ -53,7 +53,7 @@
 * [tailwindcss-aria-attributes](https://github.com/thoughtbot/tailwindcss-aria-attributes) <br/> <sub>TailwindCSS variants for aria-* attributes</sub>
 * [ava](https://github.com/avajs/ava) <br/> <sub>Node.js test runner that lets you develop with confidence 🚀</sub>
 * [uvu](https://github.com/lukeed/uvu) <br/> <sub>uvu is an extremely fast and lightweight test runner for Node.js and the browser</sub>
-* [fluent](https://github.com/projectfluent/fluent) <br/> <sub>Fluent — planning, spec and documentation</sub>
+* [fluent](https://github.com/projectfluent/fluent) <br/> <sub>Fluent �� planning, spec and documentation</sub>
 * [ms](https://github.com/vercel/ms) <br/> <sub>Tiny millisecond conversion utility</sub>
 * [fontsource](https://github.com/fontsource/fontsource) <br/> <sub>Self-host Open Source fonts in neatly bundled NPM packages.</sub>
 * [tinyhttp](https://github.com/tinyhttp/tinyhttp) <br/> <sub>🦄 0-legacy, tiny & fast web framework as a replacement of Express</sub>
