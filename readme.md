@@ -8,17 +8,22 @@
 
 ### JavaScript :turtle:
 
+* [ky](https://github.com/sindresorhus/ky) <br/> <sub>🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API</sub>
+* [pretch](https://github.com/EGAMAGZ/pretch) <br/> <sub>A lightweight and flexible fetch enhancement library that works with vanilla JavaScript, React, and Preact.</sub>
+* [quikdown](https://github.com/deftio/quikdown) <br/> <sub>Fast, secure markdown parser with bidirectional HTML conversion, plugin system, and live editor.    Zero dependencies, XSS-safe by default. 9KB core.</sub>
+* [snarkdown](https://github.com/developit/snarkdown) <br/> <sub>:smirk_cat: A snarky 1kb Markdown parser written in JavaScript</sub>
+* [signals-persist](https://github.com/qingzhoufeihu/signals-persist) <br/> <sub>Help people who use preact signals to persist data to the browser's local/session storage.</sub>
 * [flat](https://github.com/hughsk/flat) <br/> <sub>:steam_locomotive: Flatten/unflatten nested Javascript objects</sub>
-* [feedsmith](https://github.com/macieklamberski/feedsmith) <br/> <sub>Fast, all‑in‑one JavaScript feed parser and generator for RSS, Atom, RDF, and JSON Feed, with support for popular namespaces and OPML files.</sub>
+* [feedsmith](https://github.com/macieklamberski/feedsmith) <br/> <sub>Fast, all‑in‑one JavaScript feed parser and generator for RSS, Atom, RDF, and JSON Feed, with support for popular namespaces and OPML.</sub>
+
+<details>
+<summary>Show older stars</summary>
+
 * [vocs](https://github.com/wevm/vocs) <br/> <sub>Minimal Documentation Framework, powered by React + Vite.</sub>
 * [scule](https://github.com/unjs/scule) <br/> <sub>🧵 String Case Utils</sub>
 * [bundle-stats](https://github.com/relative-ci/bundle-stats) <br/> <sub>Analyze bundle stats(bundle size, assets, modules, packages) and compare the results between different builds. Support for webpack, rspack, vite, rolldown and rollup.</sub>
 * [size-limit](https://github.com/ai/size-limit) <br/> <sub>Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.</sub>
 * [vite-plugin-bundlesize](https://github.com/drwpow/vite-plugin-bundlesize) <br/> <sub>null</sub>
-
-<details>
-<summary>Show older stars</summary>
-
 * [tinyglobby](https://github.com/SuperchupuDev/tinyglobby) <br/> <sub>A fast and minimal alternative to globby and fast-glob</sub>
 * [stricli](https://github.com/bloomberg/stricli) <br/> <sub>Build complex CLIs with type safety and no dependencies</sub>
 * [fontaine](https://github.com/unjs/fontaine) <br/> <sub>Automatic font fallback based on font metrics</sub>
@@ -29,7 +34,7 @@
 * [standard-schema](https://github.com/standard-schema/standard-schema) <br/> <sub>A standard interface for TypeScript schema validation libraries</sub>
 * [buster](https://github.com/dessant/buster) <br/> <sub>Captcha solver extension for humans, available for Chrome, Edge and Firefox</sub>
 * [arctic](https://github.com/pilcrowonpaper/arctic) <br/> <sub>OAuth 2.0 clients for popular providers</sub>
-* [nanoid](https://github.com/ai/nanoid) <br/> <sub>A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript</sub>
+* [nanoid](https://github.com/ai/nanoid) <br/> <sub>A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript</sub>
 * [openapi-typescript](https://github.com/openapi-ts/openapi-typescript) <br/> <sub>Generate TypeScript types from OpenAPI 3 specs</sub>
 * [unified](https://github.com/unifiedjs/unified) <br/> <sub>Parse, inspect, transform, and serialize content with syntax trees</sub>
 * [kysely](https://github.com/kysely-org/kysely) <br/> <sub>A type-safe TypeScript SQL query builder</sub>
