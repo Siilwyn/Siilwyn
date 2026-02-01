@@ -8,17 +8,18 @@
 
 ### JavaScript :turtle:
 
+* [radashi](https://github.com/radashi-org/radashi) <br/> <sub>The modern, community-first TypeScript toolkit with all of the fast, readable, and minimal utility functions you need. Type-safe, dependency-free, tree-shakeable, fully tested.</sub>
 * [ky](https://github.com/sindresorhus/ky) <br/> <sub>🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API</sub>
 * [pretch](https://github.com/EGAMAGZ/pretch) <br/> <sub>A lightweight and flexible fetch enhancement library that works with vanilla JavaScript, React, and Preact.</sub>
 * [quikdown](https://github.com/deftio/quikdown) <br/> <sub>Fast, secure markdown parser with bidirectional HTML conversion, plugin system, and live editor.    Zero dependencies, XSS-safe by default. 9KB core.</sub>
 * [snarkdown](https://github.com/developit/snarkdown) <br/> <sub>:smirk_cat: A snarky 1kb Markdown parser written in JavaScript</sub>
 * [signals-persist](https://github.com/qingzhoufeihu/signals-persist) <br/> <sub>Help people who use preact signals to persist data to the browser's local/session storage.</sub>
 * [flat](https://github.com/hughsk/flat) <br/> <sub>:steam_locomotive: Flatten/unflatten nested Javascript objects</sub>
-* [feedsmith](https://github.com/macieklamberski/feedsmith) <br/> <sub>Fast, all‑in‑one JavaScript feed parser and generator for RSS, Atom, RDF, and JSON Feed, with support for popular namespaces and OPML.</sub>
 
 <details>
 <summary>Show older stars</summary>
 
+* [feedsmith](https://github.com/macieklamberski/feedsmith) <br/> <sub>Fast, all‑in‑one JavaScript feed parser and generator for RSS, Atom, RDF, and JSON Feed, with support for popular namespaces and OPML.</sub>
 * [vocs](https://github.com/wevm/vocs) <br/> <sub>Minimal Documentation Framework, powered by React + Vite.</sub>
 * [scule](https://github.com/unjs/scule) <br/> <sub>🧵 String Case Utils</sub>
 * [bundle-stats](https://github.com/relative-ci/bundle-stats) <br/> <sub>Analyze bundle stats(bundle size, assets, modules, packages) and compare the results between different builds. Support for webpack, rspack, vite, rolldown and rollup.</sub>
