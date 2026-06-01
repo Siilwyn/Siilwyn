@@ -8,22 +8,23 @@
 
 ### JavaScript :turtle:
 
+* [tinypdf](https://github.com/Lulzx/tinypdf) <br/> <sub>Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.</sub>
 * [eslint-plugin-preact-signal-patterns](https://github.com/DracoRunner/eslint-plugin-preact-signal-patterns) <br/> <sub>ESLint rules for Preact Signals best practices - promotes signal passing convention and reactive components</sub>
 * [lockfile-lint](https://github.com/lirantal/lockfile-lint) <br/> <sub>Lint an npm or yarn lockfile to analyze and detect security issues</sub>
 * [ffetch](https://github.com/fetch-kit/ffetch) <br/> <sub>TypeScript-first fetch wrapper with configurable timeouts, retries, and circuit-breaker baked in.</sub>
 * [radashi](https://github.com/radashi-org/radashi) <br/> <sub>The modern, community-first TypeScript toolkit with all of the fast, readable, and minimal utility functions you need. Type-safe, dependency-free, tree-shakeable, fully tested.</sub>
 * [ky](https://github.com/sindresorhus/ky) <br/> <sub>🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API</sub>
 * [pretch](https://github.com/EGAMAGZ/pretch) <br/> <sub>A lightweight and flexible fetch enhancement library that works with vanilla JavaScript, React, and Preact.</sub>
-* [quikdown](https://github.com/deftio/quikdown) <br/> <sub>Fast, secure markdown parser with bidirectional HTML conversion, plugin system, and live editor.    Zero dependencies, XSS-safe by default. 9KB core.</sub>
 
 <details>
 <summary>Show older stars</summary>
 
+* [quikdown](https://github.com/deftio/quikdown) <br/> <sub>Fast, secure markdown parser with bidirectional HTML conversion, plugin system, and live editor.    Zero dependencies, XSS-safe by default. 14KB core / 90KB editor.</sub>
 * [snarkdown](https://github.com/developit/snarkdown) <br/> <sub>:smirk_cat: A snarky 1kb Markdown parser written in JavaScript</sub>
 * [signals-persist](https://github.com/qingzhoufeihu/signals-persist) <br/> <sub>Help people who use preact signals to persist data to the browser's local/session storage.</sub>
 * [flat](https://github.com/hughsk/flat) <br/> <sub>:steam_locomotive: Flatten/unflatten nested Javascript objects</sub>
 * [feedsmith](https://github.com/macieklamberski/feedsmith) <br/> <sub>Fast, all‑in‑one JavaScript feed parser and generator for RSS, Atom, RDF, and JSON Feed, with support for popular namespaces and OPML.</sub>
-* [vocs](https://github.com/wevm/vocs) <br/> <sub>Minimal Documentation Framework, powered by React + Vite.</sub>
+* [vocs](https://github.com/wevm/vocs) <br/> <sub>Minimal Docs for Agents & Humans.</sub>
 * [scule](https://github.com/unjs/scule) <br/> <sub>🧵 String Case Utils</sub>
 * [bundle-stats](https://github.com/relative-ci/bundle-stats) <br/> <sub>Analyze bundle stats(bundle size, assets, modules, packages) and compare the results between different builds. Support for webpack, rspack, vite, rolldown and rollup.</sub>
 * [size-limit](https://github.com/ai/size-limit) <br/> <sub>Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.</sub>
@@ -88,24 +89,23 @@
 
 ### Rust :crab:
 
-* [spider](https://github.com/Zaedus/spider) <br/> <sub>Install and integrate web apps into the GNOME desktop!</sub>
 * [vortex](https://github.com/Nehliin/vortex) <br/> <sub>io_uring based bittorrent client built for modern Linux kernels</sub>
 * [flac-codec](https://github.com/tuffy/flac-codec) <br/> <sub>A comprehensive library for handling FLAC files</sub>
 * [rustac](https://github.com/stac-utils/rustac) <br/> <sub>The power of Rust for the STAC ecosystem</sub>
 * [usage](https://github.com/jdx/usage) <br/> <sub>A specification for CLIs</sub>
 * [xan](https://github.com/medialab/xan) <br/> <sub>The CSV magician</sub>
 * [rustowl](https://github.com/cordx56/rustowl) <br/> <sub>Visualize Ownership and Lifetimes in Rust</sub>
+* [LACT](https://github.com/ilya-zlobintsev/LACT) <br/> <sub>Linux GPU Configuration And Monitoring Tool</sub>
 
 <details>
 <summary>Show older stars</summary>
 
-* [LACT](https://github.com/ilya-zlobintsev/LACT) <br/> <sub>Linux GPU Configuration And Monitoring Tool</sub>
 * [keypunch](https://github.com/bragefuglseth/keypunch) <br/> <sub>Practice your typing skills</sub>
 * [niri](https://github.com/niri-wm/niri) <br/> <sub>A scrollable-tiling Wayland compositor.</sub>
 * [extism](https://github.com/extism/extism) <br/> <sub>The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.</sub>
 * [mise](https://github.com/jdx/mise) <br/> <sub>dev tools, env vars, task runner</sub>
 * [chamsae](https://github.com/pbzweihander/chamsae) <br/> <sub>A lightweight ActivityPub microblogging service for only a single user</sub>
-* [just](https://github.com/casey/just) <br/> <sub>🤖 Just a command runner</sub>
+* [just](https://github.com/casey/just) <br/> <sub>��� Just a command runner</sub>
 * [dirs-rs](https://github.com/dirs-dev/dirs-rs) <br/> <sub>moved to https://codeberg.org/dirs/dirs-rs</sub>
 * [serde](https://github.com/serde-rs/serde) <br/> <sub>Serialization framework for Rust</sub>
 * [ureq](https://github.com/algesten/ureq) <br/> <sub>A simple, safe HTTP client</sub>
