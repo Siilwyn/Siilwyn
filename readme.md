@@ -52,6 +52,7 @@
 * [terrazzo](https://github.com/terrazzoapp/terrazzo) <br/> <sub>Use DTCG tokens JSON to generate code for web, mobile, native apps, and more</sub>
 * [gqlmin](https://github.com/drwpow/gqlmin) <br/> <sub>< 1 kB GraphQL query minifier</sub>
 * [headless-qr](https://github.com/Rich-Harris/headless-qr) <br/> <sub>A simple, modern QR code library</sub>
+* [lucia](https://github.com/lucia-auth/lucia) <br/> <sub>Authentication, simple and clean</sub>
 * [speedscope](https://github.com/jlfwong/speedscope) <br/> <sub>🔬 A fast, interactive web-based viewer for performance profiles.</sub>
 * [nano-staged](https://github.com/usmanyunusov/nano-staged) <br/> <sub>Tiny tool to run commands for modified, staged, and committed files in a GIT repository.</sub>
 * [ufo](https://github.com/unjs/ufo) <br/> <sub>🔗 URL utils for humans</sub>
@@ -77,7 +78,6 @@
 * [yargs](https://github.com/yargs/yargs) <br/> <sub> yargs the modern, pirate-themed successor to optimist.</sub>
 * [querystringify](https://github.com/unshiftio/querystringify) <br/> <sub>Querystringify - Small, simple but powerful query string parser.</sub>
 * [tailwindcss](https://github.com/tailwindlabs/tailwindcss) <br/> <sub>A utility-first CSS framework for rapid UI development.</sub>
-* [micro](https://github.com/vercel/micro) <br/> <sub>Asynchronous HTTP microservices</sub>
 
 </details>
 
