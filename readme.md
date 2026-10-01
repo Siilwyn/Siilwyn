@@ -8,17 +8,19 @@
 
 ### JavaScript :turtle:
 
+* [nebula-cms](https://github.com/Snugug/nebula-cms) <br/> <sub>A native CMS for Astro</sub>
+* [jasy](https://github.com/jasy-pdf/jasy) <br/> <sub>Monorepo including CLI, jasy-pdf and ZUGFeRD/XRechnung engine</sub>
 * [harmony](https://github.com/kellnerd/harmony) <br/> <sub>Music Metadata Aggregator and MusicBrainz Importer</sub>
 * [tinypdf](https://github.com/Lulzx/tinypdf) <br/> <sub>Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.</sub>
 * [eslint-plugin-preact-signal-patterns](https://github.com/DracoRunner/eslint-plugin-preact-signal-patterns) <br/> <sub>ESLint rules for Preact Signals best practices - promotes signal passing convention and reactive components</sub>
 * [lockfile-lint](https://github.com/lirantal/lockfile-lint) <br/> <sub>Lint an npm or yarn lockfile to analyze and detect security issues</sub>
 * [ffetch](https://github.com/fetch-kit/ffetch) <br/> <sub>TypeScript-first fetch wrapper with configurable timeouts, retries, and circuit-breaker baked in.</sub>
-* [radashi](https://github.com/radashi-org/radashi) <br/> <sub>The modern, community-first TypeScript toolkit with all of the fast, readable, and minimal utility functions you need. Type-safe, dependency-free, tree-shakeable, fully tested.</sub>
-* [ky](https://github.com/sindresorhus/ky) <br/> <sub>🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API</sub>
 
 <details>
 <summary>Show older stars</summary>
 
+* [radashi](https://github.com/radashi-org/radashi) <br/> <sub>The modern, community-first TypeScript toolkit with all of the fast, readable, and minimal utility functions you need. Type-safe, dependency-free, tree-shakeable, fully tested.</sub>
+* [ky](https://github.com/sindresorhus/ky) <br/> <sub>🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API</sub>
 * [pretch](https://github.com/EGAMAGZ/pretch) <br/> <sub>A lightweight and flexible fetch enhancement library that works with vanilla JavaScript, React, and Preact.</sub>
 * [quikdown](https://github.com/deftio/quikdown) <br/> <sub>Fast, secure markdown parser with bidirectional HTML conversion, plugin system, and live editor.    Zero dependencies, XSS-safe by default.  ~17KB core / 100KB editor.</sub>
 * [snarkdown](https://github.com/developit/snarkdown) <br/> <sub>:smirk_cat: A snarky 1kb Markdown parser written in JavaScript</sub>
@@ -76,8 +78,6 @@
 * [sirv](https://github.com/lukeed/sirv) <br/> <sub>An optimized middleware & CLI application for serving static files~!</sub>
 * [rollup](https://github.com/rollup/rollup) <br/> <sub>Next-generation ES module bundler</sub>
 * [yargs](https://github.com/yargs/yargs) <br/> <sub> yargs the modern, pirate-themed successor to optimist.</sub>
-* [querystringify](https://github.com/unshiftio/querystringify) <br/> <sub>Querystringify - Small, simple but powerful query string parser.</sub>
-* [micro](https://github.com/vercel/micro) <br/> <sub>Asynchronous HTTP microservices</sub>
 
 </details>
 
