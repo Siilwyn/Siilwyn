@@ -8,17 +8,19 @@
 
 ### JavaScript :turtle:
 
+* [scriptc](https://github.com/vercel-labs/scriptc) <br/> <sub>TypeScript-to-Native Compiler</sub>
+* [tslog](https://github.com/fullstack-build/tslog) <br/> <sub>📝 tslog - Universal Logger for TypeScript and JavaScript</sub>
 * [nebula-cms](https://github.com/Snugug/nebula-cms) <br/> <sub>A native CMS for Astro</sub>
 * [jasy](https://github.com/jasy-pdf/jasy) <br/> <sub>Monorepo including CLI, jasy-pdf and ZUGFeRD/XRechnung engine</sub>
 * [harmony](https://github.com/kellnerd/harmony) <br/> <sub>Music Metadata Aggregator and MusicBrainz Importer</sub>
 * [tinypdf](https://github.com/Lulzx/tinypdf) <br/> <sub>Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.</sub>
 * [eslint-plugin-preact-signal-patterns](https://github.com/DracoRunner/eslint-plugin-preact-signal-patterns) <br/> <sub>ESLint rules for Preact Signals best practices - promotes signal passing convention and reactive components</sub>
-* [lockfile-lint](https://github.com/lirantal/lockfile-lint) <br/> <sub>Lint an npm or yarn lockfile to analyze and detect security issues</sub>
-* [ffetch](https://github.com/fetch-kit/ffetch) <br/> <sub>TypeScript-first fetch wrapper with configurable timeouts, retries, and circuit-breaker baked in.</sub>
 
 <details>
 <summary>Show older stars</summary>
 
+* [lockfile-lint](https://github.com/lirantal/lockfile-lint) <br/> <sub>Lint an npm or yarn lockfile to analyze and detect security issues</sub>
+* [ffetch](https://github.com/fetch-kit/ffetch) <br/> <sub>TypeScript-first fetch wrapper with configurable timeouts, retries, and circuit-breaker baked in.</sub>
 * [radashi](https://github.com/radashi-org/radashi) <br/> <sub>The modern, community-first TypeScript toolkit with all of the fast, readable, and minimal utility functions you need. Type-safe, dependency-free, tree-shakeable, fully tested.</sub>
 * [ky](https://github.com/sindresorhus/ky) <br/> <sub>🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API</sub>
 * [pretch](https://github.com/EGAMAGZ/pretch) <br/> <sub>A lightweight and flexible fetch enhancement library that works with vanilla JavaScript, React, and Preact.</sub>
@@ -75,9 +77,6 @@
 * [superstruct](https://github.com/ianstormtaylor/superstruct) <br/> <sub>A simple and composable way to validate data in JavaScript (and TypeScript).</sub>
 * [env-paths](https://github.com/sindresorhus/env-paths) <br/> <sub>Get paths for storing things like data, config, cache, etc</sub>
 * [light-date](https://github.com/xxczaki/light-date) <br/> <sub>⏰ Blazing fast & lightweight (157 bytes) date formatting for Node.js and the browser.</sub>
-* [sirv](https://github.com/lukeed/sirv) <br/> <sub>An optimized middleware & CLI application for serving static files~!</sub>
-* [rollup](https://github.com/rollup/rollup) <br/> <sub>Next-generation ES module bundler</sub>
-* [yargs](https://github.com/yargs/yargs) <br/> <sub> yargs the modern, pirate-themed successor to optimist.</sub>
 
 </details>
 
@@ -88,17 +87,18 @@
 
 ### Rust :crab:
 
+* [nonempty](https://github.com/cloudhead/nonempty) <br/> <sub>Correct by construction non-empty list</sub>
 * [helicon](https://github.com/Holzhaus/helicon) <br/> <sub>Command Line music organizer based on metadata from MusicBrainz</sub>
 * [vortex](https://github.com/Nehliin/vortex) <br/> <sub>io_uring based bittorrent client built for modern Linux kernels</sub>
 * [flac-codec](https://github.com/tuffy/flac-codec) <br/> <sub>A comprehensive library for handling FLAC files</sub>
 * [rustac](https://github.com/stac-utils/rustac) <br/> <sub>The power of Rust for the STAC ecosystem</sub>
 * [usage](https://github.com/jdx/usage) <br/> <sub>A specification for CLIs</sub>
 * [xan](https://github.com/medialab/xan) <br/> <sub>The CSV magician</sub>
-* [rustowl](https://github.com/cordx56/rustowl) <br/> <sub>Visualize Ownership and Lifetimes in Rust</sub>
 
 <details>
 <summary>Show older stars</summary>
 
+* [rustowl](https://github.com/cordx56/rustowl) <br/> <sub>Visualize Ownership and Lifetimes in Rust</sub>
 * [LACT](https://github.com/ilya-zlobintsev/LACT) <br/> <sub>Linux GPU Configuration And Monitoring Tool</sub>
 * [keypunch](https://github.com/bragefuglseth/keypunch) <br/> <sub>Practice your typing skills</sub>
 * [niri](https://github.com/niri-wm/niri) <br/> <sub>A scrollable-tiling Wayland compositor.</sub>
